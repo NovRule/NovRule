@@ -1,16 +1,53 @@
-### Hi there 👋
+<div align="center"?>
 
-<!--
-**Novrule/Novrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,4,5,30&height=250&section=header&text=Welcome!&fontAlignY=35&desc=Wonjun's%20Github%20Profiles&descAlign=61&descAlignY=56&fontColor=FFFFFF&fontSize=90)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Status
+- Undergraduate student of [Mathematics](https://math.sogang.ac.kr/math/index_new.html) and [Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) in [Sogang University](https://www.sogang.ac.kr/index.do) (2019.03 ~ )
+- Member of [Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f) (2023.03 ~ 2023.07)
+- Member of [SGCC](http://sgcc.me/) (2023.03 ~ )
+- Member of [CNU](https://cnu.team/) (2023.07 ~ )
+- Member of [BOOSTCAMP](https://boostcamp.connect.or.kr/) (2023.07 ~ 2023.12)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+</br>
+
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+</br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
+</div>
+
+## 🏅 Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovRule&line_height=20)](https://github.com/NaranggeSaida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovRule&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NaranggeSaida)](https://solved.ac/naranggesaida)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=NaranggeSaida&theme=cold)
+
+
+</div>
