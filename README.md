@@ -10,6 +10,7 @@
 - Member of [SGCC](http://sgcc.me/) (2023.03 ~ )
 - Member of [CNU](https://cnu.team/) (2023.07 ~ )
 - Member of [BOOSTCAMP](https://boostcamp.connect.or.kr/) (2023.07 ~ 2023.12)
+- Memver of [Samsung Electronics DX Division S/W Algorithm Capacity Building Course](https://samsungalgorithm.com/) (2024.01 ~ 2024.02)
 
 ## 🛠️ Tech Stack
 
