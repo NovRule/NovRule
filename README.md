@@ -14,7 +14,6 @@
 - Memver of [Likelion Sogang Univ](https://www.likelionsg.site/) (2024.03 ~ )
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -34,7 +33,6 @@
 </div>
 
 ## 🏅 Stats
-
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Novrule&line_height=20)](https://github.com/Novrule/github-readme-stats)
