@@ -11,7 +11,7 @@
 - Member of [CNU](https://cnu.team/) (2023.07 ~ )
 - Member of [BOOSTCAMP](https://boostcamp.connect.or.kr/) (2023.07 ~ 2023.12)
 - Memver of [Samsung Electronics DX Division S/W Algorithm Capacity Building Course](https://samsungalgorithm.com/) (2024.01 ~ 2024.02)
-- Memver of [Likelion Sogang Univ](https://www.likelionsg.site/) (2024.03 ~ )
+- Memver of [Likelion Sogang Univ](https://www.likelionsg.site/) (2024.03 ~ 
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -37,7 +37,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Novrule&line_height=20)](https://github.com/Novrule/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novrule&layout=compact)](https://github.com/Novrule/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NaranggeSaida)](https://solved.ac/naranggesaida)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=NaranggeSaida&theme=cold)
 
