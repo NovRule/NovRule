@@ -38,6 +38,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Novrule&line_height=20)](https://github.com/Novrule/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novrule&layout=compact)](https://github.com/Novrule/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NaranggeSaida)](https://solved.ac/naranggesaida)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=NaranggeSaida&theme=cold)
 
 </div>
